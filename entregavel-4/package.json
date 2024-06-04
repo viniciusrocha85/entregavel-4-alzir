@@ -1,0 +1,11 @@
+{
+  "name": "entregavel-4",
+  "version": "1.0.0",
+  "description": "Testar códigos do entregável 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rocha, Vinicius",
+  "license": "ISC"
+}
